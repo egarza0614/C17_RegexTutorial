@@ -1,8 +1,6 @@
-# Title (replace with your title)
+# Demystifying URL Matching with Regular Expressions: A Beginner's Guide
 
-Introductory paragraph (replace this with your text)
-
-## Summary
+This tutorial aims to provide a comprehensive understanding of a specific regular expression (regex) used for matching URLs. We'll dissect each component of the regex, explaining its purpose and how it contributes to the overall pattern. By the end, you'll be equipped to not only use this regex effectively but also grasp the underlying principles, enabling you to modify or create your own regexes for similar tasks.
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
